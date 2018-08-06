@@ -2,9 +2,9 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h1>nagarjun very good boy<h1>
+	<h1>nagarjuna very good boy<h1>
 		<br>
-		<h1>mahii</h1>
+		<h1>mahii naga</h1>
 </head>
 <body>
 	<h1>Hello World!</h1>
